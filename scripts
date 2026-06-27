@@ -1,1 +1,3 @@
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/JrydVJZLaa/0"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rift-hub/gag/refs/heads/main/size"))()
